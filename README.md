@@ -1,4 +1,4 @@
-# URL-based-video-generation
+# Automation of video commercial generation from product URL
 Many clients face challenges in creating videos for their informational or promotional needs. To address this, we propose developing a user-friendly tool with the following key features:
 
 ### Video Creation from Product URLs:
